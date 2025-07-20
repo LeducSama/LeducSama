@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Graduating Engineer at ICAM Toulouse, I'm enrolled for the next academic year in the "Industry 5.0" Specialized Master's program. I am passionate about technology and its potential to create useful solutions. This portfolio showcases my explorations in data engineering, artificial intelligence, and backend development. 
+Graduating Engineer at ICAM Toulouse, I'm enrolled for the next academic year in the "Industry 5.0" Specialized Master's program. I am passionate about technology and its potential to create useful solutions. This portfolio showcases my explorations in cloud engineering, artificial intelligence, and backend development. 
 
 - 🔭 I'm currently focused on expanding my portfolio with new projects and learning advanced concepts in cloud architecture and machine/deep learning.
 
