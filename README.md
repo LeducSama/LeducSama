@@ -14,9 +14,9 @@ Skills: Python, LLM (Gemini), RAG, Vector Embeddings
 
 
 **Predictive Maintenance for Turbofan Engines**
-A predictive maintenance system designed to optimize costs using a dual-LSTM architecture to analyze temperature and vibration trends. The model is evaluated with a custom penalty system aligned with real-world business costs.
+A predictive maintenance system designed to optimize costs using a dual-LSTM architecture to analyze temperature and vibration trends.
 
-Skills: Python, TensorFlow, LSTM, Business-Aligned Metrics
+Skills: Python, TensorFlow, LSTM
 
 
 **End-to-End Azure Data Pipeline for Olympics Data**
